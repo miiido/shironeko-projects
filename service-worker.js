@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shironeko-projects/precache-manifest.c985a0de2a3d3dc29778fac049a77bc8.js"
+  "/shironeko-projects/precache-manifest.9b634e6d1c76009df5bdde63badc704c.js"
 );
 
 self.addEventListener('message', (event) => {

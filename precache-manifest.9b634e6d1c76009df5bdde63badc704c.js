@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02c0483588feb25d31ef3707c65e89f5",
+    "revision": "1b237765ed0aba8e2ef7242e05eace5e",
     "url": "/shironeko-projects/index.html"
   },
   {
-    "revision": "50fa71499211861e5167",
-    "url": "/shironeko-projects/static/css/main.d5b7c0ae.chunk.css"
+    "revision": "174aae36cd4f976fce42",
+    "url": "/shironeko-projects/static/css/main.689e78f6.chunk.css"
   },
   {
     "revision": "0c4e7a3250e898e6244b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shironeko-projects/static/js/2.387c18cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50fa71499211861e5167",
-    "url": "/shironeko-projects/static/js/main.87162d27.chunk.js"
+    "revision": "174aae36cd4f976fce42",
+    "url": "/shironeko-projects/static/js/main.135295be.chunk.js"
   },
   {
     "revision": "e9d78f728c8c5b3ea179",
