@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 20vmin;
+  height: 40px;
   pointer-events: none;
 }
 
@@ -20,7 +20,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
@@ -41,7 +40,36 @@
     flex-grow: 1;
 }
 
+.App-header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+}
+
+.App-header > div {
+    flex-grow: 1;
+    display: flex;
+}
+
+.App-header > div > a {
+    display: inline-flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1000px;
+    text-decoration: none;
+}
+
+.App-header > div > a:hover {
+    background: #555;
+    transition: 0.1s all;
+}
+
 .App-footer {
+    font-size: 30px;
     padding: 1em;
 }
 
@@ -63,4 +91,8 @@
 .conway-game-of-life-square.ticked {
     background: black;
     outline: 1px solid white;
+}
+
+a:visited {
+    color: lightblue;
 }
